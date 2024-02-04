@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+}
+
+.flower{
+    font-size: 5rem;
+    user-select: none;
+}
+
+.center{
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+    position: absolute;
+}
